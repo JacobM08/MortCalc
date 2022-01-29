@@ -6,3 +6,5 @@ Mortgage Calculator App
 •It calculates the required monthly payment required to pay off a mortgage within a certain period
 
 • The input fields clear when the device is shaken
+
+• Output is read out loud to the user through TTS
